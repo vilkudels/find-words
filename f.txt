@@ -1,0 +1,5 @@
+A Stanford University project to?construct a model
+of the cerebral cortex in silicon could help scientists
+gain a better understanding of the brain, in order to
+create more,capable.computers and advanced
+neural prosthetics.
